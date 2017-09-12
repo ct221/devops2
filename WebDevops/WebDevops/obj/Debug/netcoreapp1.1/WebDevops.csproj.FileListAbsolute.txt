@@ -1,0 +1,10 @@
+C:\Repos\devops2\WebDevops\WebDevops\bin\Debug\netcoreapp1.1\WebDevops.deps.json
+C:\Repos\devops2\WebDevops\WebDevops\bin\Debug\netcoreapp1.1\WebDevops.runtimeconfig.json
+C:\Repos\devops2\WebDevops\WebDevops\bin\Debug\netcoreapp1.1\WebDevops.runtimeconfig.dev.json
+C:\Repos\devops2\WebDevops\WebDevops\bin\Debug\netcoreapp1.1\WebDevops.dll
+C:\Repos\devops2\WebDevops\WebDevops\bin\Debug\netcoreapp1.1\WebDevops.pdb
+C:\Repos\devops2\WebDevops\WebDevops\obj\Debug\netcoreapp1.1\WebDevops.csprojResolveAssemblyReference.cache
+C:\Repos\devops2\WebDevops\WebDevops\obj\Debug\netcoreapp1.1\WebDevops.csproj.CoreCompileInputs.cache
+C:\Repos\devops2\WebDevops\WebDevops\obj\Debug\netcoreapp1.1\WebDevops.AssemblyInfo.cs
+C:\Repos\devops2\WebDevops\WebDevops\obj\Debug\netcoreapp1.1\WebDevops.dll
+C:\Repos\devops2\WebDevops\WebDevops\obj\Debug\netcoreapp1.1\WebDevops.pdb

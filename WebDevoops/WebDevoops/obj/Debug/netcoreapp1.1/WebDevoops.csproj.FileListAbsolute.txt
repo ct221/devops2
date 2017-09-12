@@ -1,0 +1,9 @@
+C:\Repos\devops2\WebDevoops\WebDevoops\bin\Debug\netcoreapp1.1\WebDevoops.deps.json
+C:\Repos\devops2\WebDevoops\WebDevoops\bin\Debug\netcoreapp1.1\WebDevoops.runtimeconfig.json
+C:\Repos\devops2\WebDevoops\WebDevoops\bin\Debug\netcoreapp1.1\WebDevoops.runtimeconfig.dev.json
+C:\Repos\devops2\WebDevoops\WebDevoops\bin\Debug\netcoreapp1.1\WebDevoops.dll
+C:\Repos\devops2\WebDevoops\WebDevoops\bin\Debug\netcoreapp1.1\WebDevoops.pdb
+C:\Repos\devops2\WebDevoops\WebDevoops\obj\Debug\netcoreapp1.1\WebDevoops.csproj.CoreCompileInputs.cache
+C:\Repos\devops2\WebDevoops\WebDevoops\obj\Debug\netcoreapp1.1\WebDevoops.AssemblyInfo.cs
+C:\Repos\devops2\WebDevoops\WebDevoops\obj\Debug\netcoreapp1.1\WebDevoops.dll
+C:\Repos\devops2\WebDevoops\WebDevoops\obj\Debug\netcoreapp1.1\WebDevoops.pdb
